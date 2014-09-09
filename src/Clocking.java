@@ -10,7 +10,7 @@ class Clocking
 	{
 		long [] count = new long [X]; //Array of Longs to Hold Count of Positions at Minutes
         
-        Arrays.fill(count, 0); //Fill Array With Zeroes
+        //Arrays.fill(count, 0); //Fill Array With Zeroes, Not Needed in Java
         
         //This Function Uses Variable X to Keep Count of Zeroes
         
